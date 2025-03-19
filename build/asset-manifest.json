@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mrgpr10/gitops-demo/static/css/main.f855e6bc.css",
+    "main.js": "/mrgpr10/gitops-demo/static/js/main.da394051.js",
+    "static/js/453.405f7655.chunk.js": "/mrgpr10/gitops-demo/static/js/453.405f7655.chunk.js",
+    "index.html": "/mrgpr10/gitops-demo/index.html",
+    "main.f855e6bc.css.map": "/mrgpr10/gitops-demo/static/css/main.f855e6bc.css.map",
+    "main.da394051.js.map": "/mrgpr10/gitops-demo/static/js/main.da394051.js.map",
+    "453.405f7655.chunk.js.map": "/mrgpr10/gitops-demo/static/js/453.405f7655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.da394051.js"
+  ]
+}
